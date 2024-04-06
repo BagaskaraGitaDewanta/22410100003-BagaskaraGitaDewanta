@@ -1,0 +1,35 @@
+
+
+button
+{
+   border: 2px solid blue;
+   background-color: aqua; 
+   padding: 5px 10px;
+   text-align: center;
+   font-size: 14px;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+
+#kode, #nama, #satuan, #jual, #beli 
+{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+th
+{
+    padding: 15px;
+    text-align: center;
+}
+td
+{
+    padding: 15px;
+    text-align: left;
+}
